@@ -217,7 +217,7 @@ Blocks are particularly useful for building a library of re-usable components.
 
 ## Helpers
 
-Moodle providers several Mustache helpers. Helpers tags look like sections eventually containing zero or more parameters.
+Moodle provides several Mustache helpers. Helpers tags look like sections eventually containing zero or more parameters.
 
 ### str
 
